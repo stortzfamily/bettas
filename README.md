@@ -107,4 +107,4 @@ If you'd like to learn about filtration and heating, click [here.](/Filter.md)
 
 For more information on identifying illnesses in your betta, click [here.](Illnesses.md) 
 
-If you need advice/instructions on how to perform tank maintenance, click [here.](/TankClean.md)
+If you need advice/instructions on how to perform tank maintenance, click [here.](/TankClean.md) 
