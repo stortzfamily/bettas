@@ -2,3 +2,9 @@
 \.vuepress/\.DS_Store
 
 \.vuepress/dist/
+
+\.DS_Store
+
+\.vscode/
+
+node_modules/
