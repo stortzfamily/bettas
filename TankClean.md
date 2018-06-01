@@ -54,6 +54,8 @@ If you have lost the cup or it has grown too dirty to save, here's a great subst
 
 A [Dip And Pour](https://www.amazon.com/Tom-Tominaga-Oscar-ATO1294-Container/dp/B003WRC8CQ/ref=sr_1_2?ie=UTF8&qid=1527607077&sr=8-2&keywords=dip+and+pour+fish+container) can be used to quarantine a sick fish, or remove a fish while cleaning, or holding a fish wile transporting. It can also be used during water changes to take old water out or put new water in.
 
+![Brown And Blue Betta Fish](https://theaquaticgazette.files.wordpress.com/2011/06/sarkoii.jpg)
+
 ## How To Complete A Water Change
 
 A water change is when you take old water out of the tank and put new water in. This is done because after the same water builds up for a while, it becomes toxic. You never see a body of water that doesn't move in nature, right? At least not a healthy, clean body of water. But because your tank doesn't have a new source of water and a place to put the old on its own, you have to do it.

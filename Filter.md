@@ -30,9 +30,9 @@ Isn't it weird? Can you imagine living in water your entire life and being a bad
 
 Filters are a *must* for your betta tank (or any tank, really) but some can create quite the current. That's why when looking for a filter, it *must* be low impact or low current. Betta fish are very fragile with their fins, and a speedy current can cause stress, illness, unhappiness, fin rot, or even death. 
 
-There are many different kinds of filters: Hang on the back power filters (where the filter attaches to the wall of your aquarium), sponge fiters (where bacteria is soaked up through a sponge) undergravel filters (where the filter sits underneath the rocks) and many more. A betta fish would just be happy with your standard hang-on-the-back filter, also called a HOB filter. If that's not your style, they'll also like a sponge filter. 
+There are many different kinds of filters: Hang on the back power filters (where the filter attaches to the wall of your aquarium), sponge filters (where bacteria is soaked up through a sponge) under gravel filters (where the filter sits underneath the rocks) and many more. A betta fish would just be happy with your standard hang-on-the-back filter, also called a HOB filter. If that's not your style, they'll also like a sponge filter. 
 
-If you have a nano tank, you will need to get special fiters and heaters built for smaller areas. I happen to have HOB filters. 
+If you have a nano tank, you will need to get special filters and heaters built for smaller areas. I happen to have HOB filters. 
 
 ### Here's a table that includes some nice betta worthy filters from Amazon!
 
@@ -45,7 +45,7 @@ If you have a nano tank, you will need to get special fiters and heaters built f
 
 ### Sponge Filters
 
-If you have a sponge filter, you will need to take out your sponge every 2 weeks and clean it. This means you have to squeeze/scrub it out into a bucket of water when you clean it. The actaul sponge will not need to be replaced for years. 
+If you have a sponge filter, you will need to take out your sponge every 2 weeks and clean it. This means you have to squeeze/scrub it out into a bucket of water when you clean it. The actual sponge will not need to be replaced for years. 
 
 ::: danger 
 If the sponge starts to fall apart and you can see sponge particles floating in your water, get a new one immediately. It is a choking hazard for your fish. 
@@ -53,7 +53,7 @@ If the sponge starts to fall apart and you can see sponge particles floating in 
 
 ### HOB Filters
 
-HOB filters themselves will not need to be replaced for years, either, but the filter *cartridges* will. The **filter cartridge** is the square piece that is placed in the HOB filter. The water is sucked in to the filter near the bottom, and it passes through the **filter cartidge**. The cartirdge stops the particles of bacteria, waste, and extra food from passing along with the water. Then, clean water spouts out the top and back into the tank. 
+HOB filters themselves will not need to be replaced for years, either, but the filter *cartridges* will. The **filter cartridge** is the square piece that is placed in the HOB filter. The water is sucked in to the filter near the bottom, and it passes through the **filter catridge**. The cartridge stops the particles of bacteria, waste, and extra food from passing along with the water. Then, clean water spouts out the top and back into the tank. 
 
 You must replace your **filter cartridge** every 2 weeks. Cartridges are purchased in packages of 3 or more. This creates an ongoing cost, so if you aren't up to that, consider a sponge filter. 
 
@@ -64,7 +64,7 @@ You must replace your **filter cartridge** every 2 weeks. Cartridges are purchas
 A heater is a major part of every betta aquarium that often gets overlooked. You *must* have a heater for your betta fish. This is also extremely important if you live in an area with extreme weather. This could mean extremely cold *or* extremely hot. 
 
 ::: tip INTERESTING FACT
-Bettas are tropical freshwater fish, which means they like warm water with *no* salt. They need a water temperature of 75-80 degrees Fahrenheit (24-26 degrees Celsius). Keeping them too cold can slow down their immune system, and keeping them too warn can make your fish go eratic because of fear. 
+Bettas are tropical freshwater fish, which means they like warm water with *no* salt. They need a water temperature of 75-80 degrees Fahrenheit (24-26 degrees Celsius). Keeping them too cold can slow down their immune system, and keeping them too warm can make your fish go erratic because of fear. 
 :::
 
 Just like the filters, you will need to get a mini heater if you have a tank under 10 gallons (38liters).  We're going over the hang-on-the-back heater, which connects to a power source and hangs on the wall of your aquarium. 
@@ -77,4 +77,3 @@ Just like the filters, you will need to get a mini heater if you have a tank und
 |[Marina Fluval Submersible Heater](https://www.amazon.com/Marina-Submersible-Heater-Aquarium-25-watt/dp/B00AFELT92/ref=sr_1_4?s=pet-supplies&ie=UTF8&qid=1527271243&sr=1-4&keywords=mini+heater)        |$14.99|25W|
 |[Hydor Submersible Theo](https://www.amazon.com/Hydor-Submersible-Glass-Aquarium-Heater/dp/B00061UQ6G/ref=sr_1_1?s=pet-supplies&ie=UTF8&qid=1527271632&sr=1-1&keywords=Hydor+THEO+Submersible+aquarium+heater)       |$22.49|25W|
 
-[goldfish shark]https://i.pinimg.com/736x/52/61/e1/5261e1dcb5272a6f87194069d36392ef--sharks-dream-big.jpg
