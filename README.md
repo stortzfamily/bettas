@@ -19,6 +19,8 @@ meta:
 >"Animals are such agreeable friends ... <br> They ask no questions, they pass no criticisms." <br>
 > George Eliot
 
+Visit us on YouTube [here.](https://www.youtube.com/channel/UC_jIL-9sU-rd69-PRddIdMQ?view_as=subscriber)
+
 ## Introduction
 
 Betta fish (also known as the Siamese Fighting Fish or Betta Splendens) are a very popular fish choice among aquarists. Easy for the beginner, and enjoyable for the advanced, the betta fish is a nice addition to everyone's home. 
