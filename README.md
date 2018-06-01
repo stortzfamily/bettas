@@ -12,7 +12,7 @@ meta:
 
 ###### Home Page by Jaylee Stortz
 
-###### Last updated on May 29th, 2018 at 1:26 p.m.
+###### Last updated on June 1, 2018
 
 ![Red Halfmoon Betta Fish](https://fthmb.tqn.com/NeJKPnyUYDT5Fb15tnVfXe8zmTI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-siamese-fighting-fish-swimming-against-black-background-887393422-5a9f247eff1b780036a5c0e6.jpg)
 
@@ -48,7 +48,7 @@ If you do not wish to put in the effort of having a fish, please **do not** purc
 * Aquarium (minimum is 2.5 gallons or 9 liters)
 * Heater
 * Filter
-* Filter Cartidges
+* Filter Cartridges
 * Live/Fake Plants
 * Substrate (optional)
 * Decor (optional)

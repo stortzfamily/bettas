@@ -14,8 +14,6 @@ meta:
 
 ###### Tank Page by Jaylee Stortz
 
-###### Last Updated on May 26th, 2018 at 1:26 p.m.
-
 ## Education On How To Pick The Best Tank
 
 ![Orange And White Halfmoon Betta Fish](https://i.pinimg.com/originals/b9/49/91/b94991f087b628657e8535aba6f684b6.jpg)
